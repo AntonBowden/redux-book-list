@@ -4,5 +4,5 @@ export default function() {
     {title: 'The Dark Tower'},
     {title: 'Eloquent JavaScript'},
     {title: 'You Don\'t Know JS'}
-  ]
+  ];
 }
